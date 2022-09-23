@@ -28,11 +28,11 @@ Components used in multiple places throughout the My Calix Store.
 
 
 ### Account Block
-------
 
 ![Account Block Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/account-block.png?raw=true "account-block")
 
 Status: **In Design System**
+
 
 ### Header
 
@@ -40,11 +40,13 @@ Status: **In Design System**
 
 Status: **In Design System**
 
+
 ### Footer
 
 ![Footer Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/footer.png?raw=true "footer")
 
 Status: ****In Design System****
+
 
 ### Menu
 
@@ -52,17 +54,20 @@ Status: ****In Design System****
 
 Status: **In Design System**
 
+
 ### Representative Menu
 
 ![Rep Menu Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/rep-menu.png?raw=true "rep-menu")
 
 Status: **In Design System**
 
+
 ### Checkout Breadcrumb
 
 ![Checkout Breadcrumb Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/checkout-breadcrumb.png?raw=true "checkout-breadcrumb")
 
 Status: **In Code Review**
+
 
 ### Checkout Navigation 
 
