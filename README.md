@@ -5,7 +5,7 @@ A visual inventory of React components used inside the Quote Manager application
 **Table of Contents**  
 [General Components](#general-components)  
 [Quote List Page _(/quote-list)_](#quote-list-page-quote-list)  
-[Search Page _(/search)_](#search-page-search)
+[Search Page _(/search)_](#search-page-search)  
 Cart Page _(/cart)_  
 Warranty Page _(/checkout/warranty)_  
 Shipping Page _(/checkout/shipping)_  
@@ -103,6 +103,19 @@ Status: **Not Started**
 
 2. Row (**Not Started**)
 
-## Search Page (/search)
+# Search Page (/search)
 
 ![Search Page](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/search-page.png?raw=true "search-page")
+
+Components used in Search page of Quote Manager on the My Calix Store.
+
+- [Quote Block](#quote-block)
+- [Part List Search](#part-list-search)
+- [Part List Item](#part-list-item)
+- [Part List Filter](#part-list-filter)
+
+## Quote Block
+
+![Quote Block](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/quote-block.png?raw=true "quote-block")
+
+Status: **Not Started**
