@@ -119,3 +119,21 @@ Components used in Search page of Quote Manager on the My Calix Store.
 ![Quote Block](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/quote-block.png?raw=true "quote-block")
 
 Status: **Not Started**
+
+## Part List Search
+
+![Part List Search](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/part-list-search.png?raw=true "part-list-search")
+
+Status: **Not Started**
+
+## Part List Item
+
+![Part List Item](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/item-page/part-list-item.png?raw=true "part-list-item")
+
+Status: **Not Started**
+
+## Part List Filter
+
+![Part List Filter](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/filter-page/part-list-filter.png?raw=true "part-list-filter")
+
+Status: **Not Started**
