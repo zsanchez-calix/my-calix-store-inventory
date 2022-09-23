@@ -27,8 +27,7 @@ Components used in multiple places throughout the My Calix Store.
 * [Checkout Navigation](#checkout-navigation)
 
 
-### Account Block
-=================
+## Account Block
 
 ![Account Block Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/account-block.png?raw=true "account-block")
 
