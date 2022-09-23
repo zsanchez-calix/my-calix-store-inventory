@@ -65,6 +65,6 @@ Status: **In Code Review**
 
 ## Checkout Navigation 
 
-![Checkout Navigation Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/checkout-navigation.png?raw=true "checkout-navigation")
+![Checkout Navigation Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/checkout-navigation.png raw=true "checkout-navigation")
 
 Status: **Not Started**
