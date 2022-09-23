@@ -6,9 +6,9 @@ A visual inventory of React components used inside the Quote Manager application
 [General Components](#general-components)  
 [Quote List Page _(/quote-list)_](#quote-list-page-quote-list)  
 [Search Page _(/search)_](#search-page-search)  
-[Cart Page _(/cart)_](#cart-page-cart)
-Warranty Page _(/checkout/warranty)_  
-Shipping Page _(/checkout/shipping)_  
+[Cart Page _(/cart)_](#cart-page-cart)  
+[Warranty Page _(/checkout/warranty)_](#warranty-page-checkout-warranty)  
+[Shipping Page _(/checkout/shipping)_](#shipping-page-checkout-shipping)  
 Billing Page _(/checkout/billing)_  
 Order Review Page _(/checkout/review)_
 
@@ -175,3 +175,38 @@ Status: **In Code Review**
 
 1. Row **In Code Review**
 2. Part Adder **In Code Review**
+
+# Warranty Page (/checkout/warranty)
+
+![Warranty Page](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/warranty/checkout-warranty-page.png?raw=true "Warranty Page")
+
+Components used in Checkout Warranty page of Quote Manager on the My Calix Store.
+
+- [Warranty Form](#warranty-form)
+
+## Warranty Form
+
+![Warranty Form](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/warranty/warranty-component.png "Warranty Form")
+
+Status: **In Code Review**
+
+# Shipping Page (/checkout/shipping)
+
+![Shipping Page](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/shipping/checkout-shipping-page.png "Shipping Page")
+
+Components used in Checkout Shipping page of Quote Manager on the My Calix Store.
+
+- [Shipment Address Form](#shipment-address-form)
+-
+
+## Shipment Address Form
+
+![Shipment Address Form](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/shipping/shipping-address-form.png "Shipment Address Form")
+
+Status: **In Code Review**
+
+### Sub-Components
+
+1. Dropdown (**In Design System**)
+2. Input (**In Design System**)
+3. Rounded Button (**In Design System**)
