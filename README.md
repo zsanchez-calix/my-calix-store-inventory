@@ -5,7 +5,7 @@ A visual inventory of React components used inside the Quote Manager application
 
 **Table of Contents**  
 [General  Components](#general-components)  
-Quote List Page  *(/quote-list)*  
+[Quote List Page  *(/quote-list)*](#quote-list-page)  
 Search Page *(/search)*  
 Cart Page *(/cart)*  
 Warranty Page *(/checkout/warranty)*  
@@ -70,9 +70,15 @@ Status: **In Code Review**
 Status: **Not Started**
 
 
-
 # Quote List Page (/quote-list)
 
 ![Quote List Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/quote-list-page/quote-list-page.png?raw=true "quote-list-page")
 
-Components used in quote-list page of Quote Manager on the My Calix Store.
+Components used in Quote List page of Quote Manager on the My Calix Store.
+
+* [Quote List Options](#quote-list-options)
+* Quote List Summary
+
+## Quote List Options
+
+![Quote List Options](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/quote-list-page/quote-list-filter-sort.png?raw=true "quote-list-options")
