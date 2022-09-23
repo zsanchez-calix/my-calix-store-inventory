@@ -6,7 +6,7 @@ A visual inventory of React components used inside the Quote Manager application
 [General Components](#general-components)  
 [Quote List Page _(/quote-list)_](#quote-list-page-quote-list)  
 [Search Page _(/search)_](#search-page-search)  
-Cart Page _(/cart)_  
+[Cart Page _(/cart)_](#cart-page-cart)
 Warranty Page _(/checkout/warranty)_  
 Shipping Page _(/checkout/shipping)_  
 Billing Page _(/checkout/billing)_  
@@ -40,7 +40,7 @@ Status: **In Design System**
 
 ![Footer Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/footer.png?raw=true "footer")
 
-Status: \***\*In Design System\*\***
+Status: **In Design System**
 
 ## Menu
 
@@ -137,3 +137,41 @@ Status: **Not Started**
 ![Part List Filter](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/part-list-filter.png?raw=true "part-list-filter")
 
 Status: **Not Started**
+
+# Cart Page (/cart)
+
+![Cart Page Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/cart-page/cart-page.png?raw=true "cart-page")
+
+Components used in Quote List page of Quote Manager on the My Calix Store.
+
+- [Quote Detail Block](#quote-detail-block)
+- [Quote Detail Options](#quote-detail-options)
+- [Quote Detail Item Review](#quote-detail-options)
+
+## Quote Detail Block
+
+![Quote Detail Block](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/cart-page/quote-detail-block.png?raw=true "Quote Detail Block")
+
+Status: **Not Started**
+
+### Sub-Components
+
+1. Quote Block (**Not Started**)
+2. Tag (**Not Started**)
+
+## Quote Detail Options
+
+![Quote Detail Options](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/cart-page/quote-detail-options.png?raw=true "Quote Detail Options")
+
+Status: **In Code Review**
+
+## Quote Detail Item Review
+
+![Quote Detail Item Review](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/cart-page/quote-detail-item-review.png?raw=true "Quote Detail Item Review")
+
+Status: **In Code Review**
+
+### Sub-Components
+
+1. Row **In Code Review**
+2. Part Adder **In Code Review**
