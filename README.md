@@ -33,43 +33,37 @@ Components used in multiple places throughout the My Calix Store.
 
 Status: **In Design System**
 
-
-### Header
+## Header
 
 ![Header Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/header.png?raw=true "header")
 
 Status: **In Design System**
 
-
-### Footer
+## Footer
 
 ![Footer Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/footer.png?raw=true "footer")
 
 Status: ****In Design System****
 
-
-### Menu
+## Menu
 
 ![Menu Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/menu.png?raw=true "menu")
 
 Status: **In Design System**
 
-
-### Representative Menu
+## Representative Menu
 
 ![Rep Menu Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/rep-menu.png?raw=true "rep-menu")
 
 Status: **In Design System**
 
-
-### Checkout Breadcrumb
+## Checkout Breadcrumb
 
 ![Checkout Breadcrumb Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/checkout-breadcrumb.png?raw=true "checkout-breadcrumb")
 
 Status: **In Code Review**
 
-
-### Checkout Navigation 
+## Checkout Navigation 
 
 ![Checkout Navigation Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/checkout-navigation.png?raw=true "checkout-navigation")
 
