@@ -128,12 +128,12 @@ Status: **Not Started**
 
 ## Part List Item
 
-![Part List Item](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/item-page/part-list-item.png?raw=true "part-list-item")
+![Part List Item](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/part-list-item.png?raw=true "part-list-item")
 
 Status: **Not Started**
 
 ## Part List Filter
 
-![Part List Filter](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/filter-page/part-list-filter.png?raw=true "part-list-filter")
+![Part List Filter](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/part-list-filter.png?raw=true "part-list-filter")
 
 Status: **Not Started**
