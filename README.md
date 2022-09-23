@@ -1,3 +1,4 @@
+
 # My Calix Store Quote Manager Inventory
 
 A visual inventory of React components used inside the Quote Manager application in the My Calix Store.
@@ -18,10 +19,10 @@ Order Review Page *(/checkout/review)*
 Components used in multiple places throughout the My Calix Store.
 
 * [Account Block](#account-block)
-* Header
-* Footer
-* Menu
-* Representative Menu
+* [Header](#header)
+* [Footer](#footer)
+* [Menu](#menu)
+* [Representative Menu](#representative-menu)
 * Checkout Breadcrumb 
 * Checkout 
 * Navigation
@@ -33,3 +34,26 @@ Components used in multiple places throughout the My Calix Store.
 
 Status: In Design System
 
+### Header
+
+![Header Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/header.png?raw=true "header")
+
+Status: In Design System
+
+### Footer
+
+![Footer Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/footer.png?raw=true "footer")
+
+Status: In Design System
+
+### Menu
+
+![Menu Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/menu.png?raw=true "menu")
+
+Status: In Design System
+
+### Representative Menu
+
+![Rep Menu Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/rep-menu.png?raw=true "rep-menu")
+
+Status: In Design System
