@@ -14,7 +14,7 @@ Billing Page *(/checkout/billing)*
 Order Review Page *(/checkout/review)*  
 
 
-## General Components
+# General Components
 
 Components used in multiple places throughout the My Calix Store.
 
@@ -68,3 +68,11 @@ Status: **In Code Review**
 ![Checkout Navigation Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/checkout-navigation.png?raw=true "checkout-navigation")
 
 Status: **Not Started**
+
+
+
+# Quote List Page (/quote-list)
+
+![Quote List Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/quote-list-page/quote-list-page.png?raw=true "quote-list-page")
+
+Components used in quote-list page of Quote Manager on the My Calix Store.
