@@ -1,31 +1,28 @@
-
 # My Calix Store Quote Manager Inventory
 
 A visual inventory of React components used inside the Quote Manager application in the My Calix Store.
 
 **Table of Contents**  
-[General  Components](#general-components)  
-[Quote List Page  *(/quote-list)*](#quote-list-page-quote-list)  
-Search Page *(/search)*  
-Cart Page *(/cart)*  
-Warranty Page *(/checkout/warranty)*  
-Shipping Page *(/checkout/shipping)*  
-Billing Page *(/checkout/billing)*  
-Order Review Page *(/checkout/review)*  
-
+[General Components](#general-components)  
+[Quote List Page _(/quote-list)_](#quote-list-page-quote-list)  
+Search Page _(/search)_  
+Cart Page _(/cart)_  
+Warranty Page _(/checkout/warranty)_  
+Shipping Page _(/checkout/shipping)_  
+Billing Page _(/checkout/billing)_  
+Order Review Page _(/checkout/review)_
 
 # General Components
 
 Components used in multiple places throughout the My Calix Store.
 
-* [Account Block](#account-block)
-* [Header](#header)
-* [Footer](#footer)
-* [Menu](#menu)
-* [Representative Menu](#representative-menu)
-* [Checkout Breadcrumb](#checkout-breadcrumb) 
-* [Checkout Navigation](#checkout-navigation)
-
+- [Account Block](#account-block)
+- [Header](#header)
+- [Footer](#footer)
+- [Menu](#menu)
+- [Representative Menu](#representative-menu)
+- [Checkout Breadcrumb](#checkout-breadcrumb)
+- [Checkout Navigation](#checkout-navigation)
 
 ## Account Block
 
@@ -43,7 +40,7 @@ Status: **In Design System**
 
 ![Footer Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/footer.png?raw=true "footer")
 
-Status: ****In Design System****
+Status: \***\*In Design System\*\***
 
 ## Menu
 
@@ -63,12 +60,11 @@ Status: **In Design System**
 
 Status: **In Code Review**
 
-## Checkout Navigation 
+## Checkout Navigation
 
 ![Checkout Navigation Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/checkout-navigation.png?raw=true "checkout-navigation")
 
 Status: **Not Started**
-
 
 # Quote List Page (/quote-list)
 
@@ -76,25 +72,33 @@ Status: **Not Started**
 
 Components used in Quote List page of Quote Manager on the My Calix Store.
 
-* [Quote List Options](#quote-list-options)
-* Quote List Summary
+- [Quote List Options](#quote-list-options)
+- [Quote List Summary](#quote-list-summary)
 
 ## Quote List Options
 
 ![Quote List Options](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/quote-list-page/quote-list-filter-sort.png?raw=true "quote-list-options")
 
-Status: Not Started
+Status: **Not Started**
 
 ### Sub-Components
 
-1. Round Button 
-Status: **In Design System**
+1. Round Button (**In Design System**)
 
-2. Input
-Status: **In Design System**
+2. Input (**In Design System**)
 
-3. Dropdown
-Status: **In Design System**
+3. Dropdown (**In Design System**)
 
-4. Tabs
-Status: **In Design System**
+4. Tabs (**In Design System**)
+
+## Quote List Summary
+
+![Quote List Summary](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/quote-list-page/quote-list-summary.png?raw=true "quote-list-summary")
+
+Status: **Not Started**
+
+### Sub-Components
+
+1. Table (**Not Started**)
+
+2. Row (**Not Started**)
