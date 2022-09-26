@@ -9,8 +9,8 @@ A visual inventory of React components used inside the Quote Manager application
 [Cart Page _(/cart)_](#cart-page-cart)  
 [Warranty Page _(/checkout/warranty)_](#warranty-page-checkoutwarranty)  
 [Shipping Page _(/checkout/shipping)_](#shipping-page-checkoutshipping)  
-[Billing Page _(/checkout/billing)_](#billing-page-checkoutbilling)
-Order Review Page _(/checkout/review)_
+[Billing Page _(/checkout/billing)_](#billing-page-checkoutbilling)  
+[Order Review Page _(/checkout/review)_](#order-review-page-checkoutreview)
 
 # General Components
 
@@ -235,12 +235,9 @@ Status: **In Code Review**
 1. Input (**In Design System**)
 2. Dropdown (**In Design System**)
 
-<!-- #44367d
-Status: **In Code Review**
-(**In Design System**)
-(**In Code Review**) -->
-
 # Billing Page (checkout/billing)
+
+![Billing Page](/Quote%20Manager/checkout/billing/checkout-billing-page.png)
 
 Components used in Checkout Billing page of Quote Manager on the My Calix Store.
 
@@ -266,4 +263,42 @@ Status: **In Code Review**
 
 ### Sub-Components
 
-1. Input(**In Design System**)
+1. Input (**In Design System**)
+
+# Order Review Page (checkout/review)
+
+![Order Review Page](/Quote%20Manager/checkout/order-review/order-review-page.png)
+
+Components used in Checkout Order Review page of Quote Manager on the My Calix Store.
+
+- [Checkout Item Table](#checkout-item-table)
+- [Checkout Review Info Block](#checkout-review-info-block)
+- [Order Recipients Form](#order-recipients-form)
+
+## Checkout Review Info Block
+
+![Checkout Review Info Block](/Quote%20Manager/checkout/order-review/checkout-review-info-block.png)
+
+Status: **In Code Review**
+
+## Checkout Item Table
+
+![Checkout Item Table](/Quote%20Manager/checkout/order-review/checkout-item-table.png)
+
+Status: **In Code Review**
+
+### Sub-Components
+
+1. Table (**In Code Review**)
+2. Item Row (**In Code Review**)
+
+## Order Recipients Form
+
+![Order Recipients Form](/Quote%20Manager/checkout/order-review/order-recipients-form.png)
+
+Status: **In Code Review**
+
+### Sub-Components
+
+1. Input (**In Design System**)
+2. Rounded Button (**In Design System**)
