@@ -9,7 +9,7 @@ A visual inventory of React components used inside the Quote Manager application
 [Cart Page _(/cart)_](#cart-page-cart)  
 [Warranty Page _(/checkout/warranty)_](#warranty-page-checkoutwarranty)  
 [Shipping Page _(/checkout/shipping)_](#shipping-page-checkoutshipping)  
-Billing Page _(/checkout/billing)_  
+[Billing Page _(/checkout/billing)_](#billing-page-checkoutbilling)
 Order Review Page _(/checkout/review)_
 
 # General Components
@@ -87,7 +87,7 @@ Status: **Not Started**
 
 2. Input (**In Design System**)
 
-3. Dropdown (**In Design System**)
+3. Dropdown Primary (**In Design System**)
 
 4. Tabs (**In Design System**)
 
@@ -198,6 +198,7 @@ Components used in Checkout Shipping page of Quote Manager on the My Calix Store
 
 - [Shipment Address Form](#shipment-address-form)
 - [Multiple Shipment Scheduler](#multiple-shipment-scheduler)
+- [Shipping Contact Info Form](#shipping-contact-info-form)
 
 ## Shipment Address Form
 
@@ -207,7 +208,7 @@ Status: **In Code Review**
 
 ### Sub-Components
 
-1. Dropdown (**In Design System**)
+1. Dropdown Secondary (**In Design System**)
 2. Input (**In Design System**)
 3. Rounded Button (**In Design System**)
 
@@ -223,7 +224,46 @@ Status: **In Code Review**
 2. Item Row (**In Code Review**)
 3. Input with Icon (**In Code Review**)
 
-#44367d
+## Shipping Contact Info Form
+
+![Shipping Contact Info Form](/Quote%20Manager/checkout/shipping/shipping-contact-info-form.png)
+
+Status: **In Code Review**
+
+### Sub-Components
+
+1. Input (**In Design System**)
+2. Dropdown (**In Design System**)
+
+<!-- #44367d
 Status: **In Code Review**
 (**In Design System**)
-(**In Code Review**)
+(**In Code Review**) -->
+
+# Billing Page (checkout/billing)
+
+Components used in Checkout Billing page of Quote Manager on the My Calix Store.
+
+- [Billing Address Form](#billing-address-form)
+- [Purchase Order Info Form](#purchase-order-info-form)
+
+## Billing Address Form
+
+![Billing Address Form](/Quote%20Manager/checkout/billing/billing-address-form.png)
+
+Status: **In Code Review**
+
+### Sub-Components
+
+1. Dropdown Secondary (**In Design System**)
+2. Dropdown Primary (**In Design System**)
+
+## Purchase Order Info Form
+
+![Purchase Order Info Form](/Quote%20Manager/checkout/billing/po-info-form.png)
+
+Status: **In Code Review**
+
+### Sub-Components
+
+1. Input(**In Design System**)
