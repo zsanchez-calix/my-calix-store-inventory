@@ -7,8 +7,8 @@ A visual inventory of React components used inside the Quote Manager application
 [Quote List Page _(/quote-list)_](#quote-list-page-quote-list)  
 [Search Page _(/search)_](#search-page-search)  
 [Cart Page _(/cart)_](#cart-page-cart)  
-[Warranty Page _(/checkout/warranty)_](#warranty-page-checkout-warranty)  
-[Shipping Page _(/checkout/shipping)_](#shipping-page-checkout-shipping)  
+[Warranty Page _(/checkout/warranty)_](#warranty-page-checkoutwarranty)  
+[Shipping Page _(/checkout/shipping)_](#shipping-page-checkoutshipping)  
 Billing Page _(/checkout/billing)_  
 Order Review Page _(/checkout/review)_
 
@@ -26,49 +26,49 @@ Components used in multiple places throughout the My Calix Store.
 
 ## Account Block
 
-![Account Block Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/account-block.png?raw=true "account-block")
+![Account Block Image](/General/account-block.png "account-block")
 
 Status: **In Design System**
 
 ## Header
 
-![Header Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/header.png?raw=true "header")
+![Header Image](General/header.png?raw=true "header")
 
 Status: **In Design System**
 
 ## Footer
 
-![Footer Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/footer.png?raw=true "footer")
+![Footer Image](General/footer.png?raw=true "footer")
 
 Status: **In Design System**
 
 ## Menu
 
-![Menu Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/menu.png?raw=true "menu")
+![Menu Image](General/menu.png?raw=true "menu")
 
 Status: **In Design System**
 
 ## Representative Menu
 
-![Rep Menu Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/rep-menu.png?raw=true "rep-menu")
+![Rep Menu Image](General/rep-menu.png?raw=true "rep-menu")
 
 Status: **In Design System**
 
 ## Checkout Breadcrumb
 
-![Checkout Breadcrumb Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/General/checkout-breadcrumb.png?raw=true "checkout-breadcrumb")
+![Checkout Breadcrumb Image](General/checkout-breadcrumb.png?raw=true "checkout-breadcrumb")
 
 Status: **In Code Review**
 
 ## Checkout Navigation
 
-![Checkout Navigation Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/checkout-navigation.png?raw=true "checkout-navigation")
+![Checkout Navigation Image](Quote%20Manager/checkout/checkout-navigation.png?raw=true "checkout-navigation")
 
 Status: **Not Started**
 
 # Quote List Page (/quote-list)
 
-![Quote List Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/quote-list-page/quote-list-page.png?raw=true "quote-list-page")
+![Quote List Image](Quote%20Manager/quote-list-page/quote-list-page.png?raw=true "quote-list-page")
 
 Components used in Quote List page of Quote Manager on the My Calix Store.
 
@@ -77,7 +77,7 @@ Components used in Quote List page of Quote Manager on the My Calix Store.
 
 ## Quote List Options
 
-![Quote List Options](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/quote-list-page/quote-list-filter-sort.png?raw=true "quote-list-options")
+![Quote List Options](Quote%20Manager/quote-list-page/quote-list-filter-sort.png?raw=true "quote-list-options")
 
 Status: **Not Started**
 
@@ -93,7 +93,7 @@ Status: **Not Started**
 
 ## Quote List Summary
 
-![Quote List Summary](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/quote-list-page/quote-list-summary.png?raw=true "quote-list-summary")
+![Quote List Summary](Quote%20Manager/quote-list-page/quote-list-summary.png?raw=true "quote-list-summary")
 
 Status: **Not Started**
 
@@ -105,7 +105,7 @@ Status: **Not Started**
 
 # Search Page (/search)
 
-![Search Page](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/search-page.png?raw=true "search-page")
+![Search Page](Quote%20Manager/search-page/search-page.png?raw=true "search-page")
 
 Components used in Search page of Quote Manager on the My Calix Store.
 
@@ -116,31 +116,31 @@ Components used in Search page of Quote Manager on the My Calix Store.
 
 ## Quote Block
 
-![Quote Block](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/quote-block.png?raw=true "quote-block")
+![Quote Block](Quote%20Manager/search-page/quote-block.png?raw=true "quote-block")
 
 Status: **Not Started**
 
 ## Part List Search
 
-![Part List Search](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/part-list-search.png?raw=true "part-list-search")
+![Part List Search](Quote%20Manager/search-page/part-list-search.png?raw=true "part-list-search")
 
 Status: **Not Started**
 
 ## Part List Item
 
-![Part List Item](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/part-list-item.png?raw=true "part-list-item")
+![Part List Item](Quote%20Manager/search-page/part-list-item.png?raw=true "part-list-item")
 
 Status: **Not Started**
 
 ## Part List Filter
 
-![Part List Filter](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/search-page/part-list-filter.png?raw=true "part-list-filter")
+![Part List Filter](Quote%20Manager/search-page/part-list-filter.png?raw=true "part-list-filter")
 
 Status: **Not Started**
 
 # Cart Page (/cart)
 
-![Cart Page Image](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/cart-page/cart-page.png?raw=true "cart-page")
+![Cart Page Image](Quote%20Manager/cart-page/cart-page.png?raw=true "cart-page")
 
 Components used in Quote List page of Quote Manager on the My Calix Store.
 
@@ -150,7 +150,7 @@ Components used in Quote List page of Quote Manager on the My Calix Store.
 
 ## Quote Detail Block
 
-![Quote Detail Block](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/cart-page/quote-detail-block.png?raw=true "Quote Detail Block")
+![Quote Detail Block](Quote%20Manager/cart-page/quote-detail-block.png?raw=true "Quote Detail Block")
 
 Status: **Not Started**
 
@@ -161,13 +161,13 @@ Status: **Not Started**
 
 ## Quote Detail Options
 
-![Quote Detail Options](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/cart-page/quote-detail-options.png?raw=true "Quote Detail Options")
+![Quote Detail Options](Quote%20Manager/cart-page/quote-detail-options.png?raw=true "Quote Detail Options")
 
 Status: **In Code Review**
 
 ## Quote Detail Item Review
 
-![Quote Detail Item Review](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/cart-page/quote-detail-item-review.png?raw=true "Quote Detail Item Review")
+![Quote Detail Item Review](Quote%20Manager/cart-page/quote-detail-item-review.png?raw=true "Quote Detail Item Review")
 
 Status: **In Code Review**
 
@@ -178,7 +178,7 @@ Status: **In Code Review**
 
 # Warranty Page (/checkout/warranty)
 
-![Warranty Page](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/warranty/checkout-warranty-page.png?raw=true "Warranty Page")
+![Warranty Page](Quote%20Manager/checkout/warranty/checkout-warranty-page.png?raw=true "Warranty Page")
 
 Components used in Checkout Warranty page of Quote Manager on the My Calix Store.
 
@@ -186,22 +186,22 @@ Components used in Checkout Warranty page of Quote Manager on the My Calix Store
 
 ## Warranty Form
 
-![Warranty Form](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/warranty/warranty-component.png "Warranty Form")
+![Warranty Form](Quote%20Manager/checkout/warranty/warranty-component.png "Warranty Form")
 
 Status: **In Code Review**
 
 # Shipping Page (/checkout/shipping)
 
-![Shipping Page](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/shipping/checkout-shipping-page.png "Shipping Page")
+![Shipping Page](Quote%20Manager/checkout/shipping/checkout-shipping-page.png "Shipping Page")
 
 Components used in Checkout Shipping page of Quote Manager on the My Calix Store.
 
 - [Shipment Address Form](#shipment-address-form)
--
+- [Multiple Shipment Scheduler](#multiple-shipment-scheduler)
 
 ## Shipment Address Form
 
-![Shipment Address Form](https://github.com/zsanchez-calix/my-calix-store-inventory/blob/main/Quote%20Manager/checkout/shipping/shipping-address-form.png "Shipment Address Form")
+![Shipment Address Form](Quote%20Manager/checkout/shipping/shipping-address-form.png "Shipment Address Form")
 
 Status: **In Code Review**
 
@@ -210,3 +210,20 @@ Status: **In Code Review**
 1. Dropdown (**In Design System**)
 2. Input (**In Design System**)
 3. Rounded Button (**In Design System**)
+
+## Multiple Shipment Scheduler
+
+![Multiple Shipment Scheduler](/Quote%20Manager/checkout/shipping/shipment-scheduler.png)
+
+Status: **In Code Review**
+
+### Sub-Components
+
+1. Date Input (**In Design System**)
+2. Item Row (**In Code Review**)
+3. Input with Icon (**In Code Review**)
+
+#44367d
+Status: **In Code Review**
+(**In Design System**)
+(**In Code Review**)
