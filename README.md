@@ -2,6 +2,8 @@
 
 A visual inventory of React components used inside the Quote Manager application in the My Calix Store.
 
+Any UI not detailed as a sub component is considered part of its main parent UI.
+
 **Table of Contents**  
 [General Components](#general-components)  
 [Quote List Page _(/quote-list)_](#quote-list-page-quote-list)  
@@ -35,6 +37,11 @@ Components used in multiple places throughout the My Calix Store. These componen
 ## Others
 
 - [Account Block](#account-block)
+- [Breadcrumb](#breadcrumb)
+- [Feedback](#feedback)
+- [Modal](#modal)
+- [Notification](#notification)
+- [Tabs](#tabs)
 - [Header](#header)
 - [Footer](#footer)
 - [Menu](#menu)
