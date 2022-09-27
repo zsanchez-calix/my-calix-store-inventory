@@ -128,14 +128,13 @@ Status: **In Design System**
 
 ## Notification
 
-![Notification Image](General/Other/notification.png);
+![Notification Image](General/Other/notification.png)
 
 Status: **In Design System**
 
 ## Tabs
 
-![Tabs Image](General/Other/tabs.png);
-
+![Tabs Image](General/Other/tabs.png)
 Status: **In Design System**
 
 ## Header
@@ -216,9 +215,7 @@ Status: **Not Started**
 
 ### Sub-Components
 
-1. Table (**Not Started**)
-
-2. Row (**Not Started**)
+1. Row (**Not Started**)
 
 # Search Page (/search)
 
@@ -339,7 +336,7 @@ Status: **In Code Review**
 
 1. [Date Input](#date-input) (**In Design System**)
 2. Item Row (**In Code Review**)
-3. [Input with Icon](#input-icon) (**In Code Review**)
+3. Button with Icon (**In Code Review**)
 
 ## Shipping Contact Info Form
 
@@ -406,8 +403,7 @@ Status: **In Code Review**
 
 ### Sub-Components
 
-1. Table (**In Code Review**)
-2. Item Row (**In Code Review**)
+1. Item Row (**In Code Review**)
 
 ## Order Recipients Form
 
