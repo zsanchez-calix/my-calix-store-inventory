@@ -14,7 +14,25 @@ A visual inventory of React components used inside the Quote Manager application
 
 # General Components
 
-Components used in multiple places throughout the My Calix Store.
+Components used in multiple places throughout the My Calix Store. These components are avaliable for use through Design System.
+
+## Form Components
+
+- [Button](#button)
+- [Button Rounded](#button-rounded)
+- [Button Slim](#button-slim)
+- [Date Input](#date-input)
+- [Dropdown Primary](#dropdown-primary)
+- [Dropdown Secondary](#dropdown-secondary)
+- [Input Icon](#input-icon)
+- [Input](#input)
+
+## Loader Components
+
+- [Overlay](#overlay)
+- [Spinner](#spinner)
+
+## Others
 
 - [Account Block](#account-block)
 - [Header](#header)
@@ -24,47 +42,146 @@ Components used in multiple places throughout the My Calix Store.
 - [Checkout Breadcrumb](#checkout-breadcrumb)
 - [Checkout Navigation](#checkout-navigation)
 
+## Button
+
+![Button Image](General/Form/button.png "Button")
+
+Status: **In Design System**
+
+## Button Rounded
+
+![Button Rounded Image](General/Form/button-rounded.png "button-rounded")
+
+Status: **In Design System**
+
+## Button Slim
+
+![Button Slim Image](General/Form/button-slim.png "button-slim")
+
+Status: **In Design System**
+
+## Date Input
+
+![Date Input Image](General/Form/date-input.png "date-input")
+
+Status: **In Design System**
+
+## Dropdown Primary
+
+![Dropdown Primary Image](General/Form/dropdown-primary.png "dropdown-primary")
+
+Status: **In Design System**
+
+## Dropdown Secondary
+
+![Dropdown Secondary Image](General/Form/dropdown-secondary.png "dropdown-secondary")
+
+Status: **In Design System**
+
+## Input
+
+![Input Image](General/Form/input.png "input")
+
+Status: **In Design System**
+
+## Input Icon
+
+![Input Icon Image](General/Form/input-icon.png "input-icon")
+
+Status: **In Design System**
+
+## Overlay
+
+![Overlay Image](General/Loaders/overlay.png "overlay")
+
+Status: **In Design System**
+
+## Spinner
+
+![Spinner Image](General/Loaders/spinner.png "spinner")
+
+Status: **In Design System**
+
 ## Account Block
 
-![Account Block Image](/General/account-block.png "account-block")
+![Account Block Image](General/Other/account-block.png "account-block")
+
+Status: **In Design System**
+
+## Breadcrumb
+
+![Breadcrumb Image](General/Other/breadcrumb.png "breadcrumb")
+
+Status: **In Design System**
+
+## Feedback
+
+![Feedback Image](General/Other/feedback.png "feedback")
+
+Status: **In Design System**
+
+## Modal
+
+![Modal Image](General/Other/modal.png "modal")
+
+Status: **In Design System**
+
+## Notification
+
+![Notification Image](General/Other/notification.png);
+
+Status: **In Design System**
+
+## Tabs
+
+![Tabs Image](General/Other/tabs.png);
 
 Status: **In Design System**
 
 ## Header
 
-![Header Image](General/header.png?raw=true "header")
+![Header Image](General/Other/header.png?raw=true "header")
 
 Status: **In Design System**
 
+### Sub-Components
+
+1. [Menu](#menu) (**In Design System**)
+1. [Representative Menu](#representative-menu) (**In Design System**)
+
 ## Footer
 
-![Footer Image](General/footer.png?raw=true "footer")
+![Footer Image](General/Other/footer.png?raw=true "footer")
 
 Status: **In Design System**
 
 ## Menu
 
-![Menu Image](General/menu.png?raw=true "menu")
+![Menu Image](General/Other/menu.png?raw=true "menu")
 
 Status: **In Design System**
 
 ## Representative Menu
 
-![Rep Menu Image](General/rep-menu.png?raw=true "rep-menu")
+![Rep Menu Image](General/Other/rep-menu.png?raw=true "rep-menu")
 
 Status: **In Design System**
 
 ## Checkout Breadcrumb
 
-![Checkout Breadcrumb Image](General/checkout-breadcrumb.png?raw=true "checkout-breadcrumb")
+![Checkout Breadcrumb Image](General/Other/checkout-breadcrumb.png?raw=true "checkout-breadcrumb")
 
 Status: **In Code Review**
 
 ## Checkout Navigation
 
-![Checkout Navigation Image](Quote%20Manager/checkout/checkout-navigation.png?raw=true "checkout-navigation")
+![Checkout Navigation Image](/General/Other/checkout-navigation.png "checkout-navigation")
 
 Status: **Not Started**
+
+### Sub-Components
+
+1. [Button Rounded](#button-rounded)
 
 # Quote List Page (/quote-list)
 
@@ -83,13 +200,13 @@ Status: **Not Started**
 
 ### Sub-Components
 
-1. Round Button (**In Design System**)
+1. [Button Rounded](#button-rounded) (**In Design System**)
 
-2. Input (**In Design System**)
+2. [Input](#input) (**In Design System**)
 
-3. Dropdown Primary (**In Design System**)
+3. [Dropdown Primary](#dropdown-primary) (**In Design System**)
 
-4. Tabs (**In Design System**)
+4. [Tabs](#tabs) (**In Design System**)
 
 ## Quote List Summary
 
@@ -208,9 +325,9 @@ Status: **In Code Review**
 
 ### Sub-Components
 
-1. Dropdown Secondary (**In Design System**)
-2. Input (**In Design System**)
-3. Rounded Button (**In Design System**)
+1. [Dropdown Secondary](#dropdown-secondary) (**In Design System**)
+2. [Input](#input) (**In Design System**)
+3. [Button Rounded](#button-rounded) (**In Design System**)
 
 ## Multiple Shipment Scheduler
 
@@ -220,9 +337,9 @@ Status: **In Code Review**
 
 ### Sub-Components
 
-1. Date Input (**In Design System**)
+1. [Date Input](#date-input) (**In Design System**)
 2. Item Row (**In Code Review**)
-3. Input with Icon (**In Code Review**)
+3. [Input with Icon](#input-icon) (**In Code Review**)
 
 ## Shipping Contact Info Form
 
@@ -232,8 +349,8 @@ Status: **In Code Review**
 
 ### Sub-Components
 
-1. Input (**In Design System**)
-2. Dropdown (**In Design System**)
+1. [Input](#input) (**In Design System**)
+2. [Dropdown Primary](#dropdown-primary) (**In Design System**)
 
 # Billing Page (checkout/billing)
 
@@ -252,8 +369,8 @@ Status: **In Code Review**
 
 ### Sub-Components
 
-1. Dropdown Secondary (**In Design System**)
-2. Dropdown Primary (**In Design System**)
+1. [Dropdown Secondary](#dropdown-secondary) (**In Design System**)
+2. [Dropdown Primary](#dropdown-primary) (**In Design System**)
 
 ## Purchase Order Info Form
 
@@ -263,7 +380,7 @@ Status: **In Code Review**
 
 ### Sub-Components
 
-1. Input (**In Design System**)
+1. [Input](#input) (**In Design System**)
 
 # Order Review Page (checkout/review)
 
@@ -300,5 +417,5 @@ Status: **In Code Review**
 
 ### Sub-Components
 
-1. Input (**In Design System**)
-2. Rounded Button (**In Design System**)
+1. [Input](#input) (**In Design System**)
+2. [Button Rounded](#button-rounded) (**In Design System**)
